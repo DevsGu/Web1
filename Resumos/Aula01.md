@@ -1,6 +1,4 @@
-
-
-\# 📚 Aula 1 - Cliente \& Servidor
+# 📚 Aula 1 - Cliente \& Servidor
 
 
 
@@ -44,7 +42,7 @@ R2:. A forma de como o Navegador(Cliente) e o site(Servidor) se comunica é atra
 
 
 
-\#### 🧠 Mnemônico
+#### 🧠 Mnemônico
 
 
 
@@ -124,7 +122,7 @@ Autenticação: autorizacao , envia credenciais.
 
 
 
-\### Métodos GET \& POST
+### Métodos GET \& POST
 
 
 
@@ -158,7 +156,7 @@ R9:. Metodo Post envia dados no corpo da requisição , geralmente com objetivo 
 
 
 
-\### Para finalizar - Host \& Set Cookie
+### Para finalizar - Host \& Set Cookie
 
 
 
