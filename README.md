@@ -1,4 +1,4 @@
-\# 📘 Desenvolvimento Web 1
+# 📘 Desenvolvimento Web 1
 
 
 
@@ -10,19 +10,19 @@ Aqui você vai encontrar resumos das aulas, anotações pessoais e exemplos prá
 
 
 
-\## 🚀 Objetivo
+## 🚀 Objetivo
 
 
 
-\* Consolidar meu aprendizado escrevendo
+* Consolidar meu aprendizado escrevendo
 
-\* Criar um material de revisão simples e direto
+* Criar um material de revisão simples e direto
 
-\* Compartilhar conhecimento com outras pessoas
+* Compartilhar conhecimento com outras pessoas
 
 
 
-\## 📚 Conteúdo
+## 📚 Conteúdo
 
 
 
@@ -30,13 +30,13 @@ Os conteúdos estão organizados por aulas:
 
 
 
-\* Aula 01 - Cliente e Servidor
+* Aula 01 - Cliente e Servidor
 
 &#x20; \*(e assim por diante...)\*
 
 
 
-\## 🧠 Metodologia
+## 🧠 Metodologia
 
 
 
@@ -44,15 +44,15 @@ Estou utilizando a técnica de aprendizado ativo:
 
 
 
-\* Estudo
+* Estudo
 
-\* Resumo com minhas próprias palavras
+* Resumo com minhas próprias palavras
 
-\* Aplicação prática
+* Aplicação prática
 
 
 
-\## 📈 Progresso
+## 📈 Progresso
 
 
 
@@ -60,7 +60,7 @@ Estou utilizando a técnica de aprendizado ativo:
 
 
 
-\---
+---
 
 
 
