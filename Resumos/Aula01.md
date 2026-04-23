@@ -21,23 +21,14 @@ R1:. Uma pessoa quer acessar algum site , para isso ela acessa o seu navegador(f
 R2:. A forma de como o Navegador(Cliente) e o site(Servidor) se comunica é atraves dos Métodos HTTP(Mas não isso).
 
 
-
 | Métodos    | Função |
-
 |----------|-------|
-
 | GET  | Busca dados   | 
-
 | POST    | Envia dados    |
-
 | PUT  | Atualiza todos os dados  | 
-
 | PATCH    | Atualiza parte dos dados    |
-
 | DELETE  | Deletar dados  | 
-
 | HEAD    |  Metadados de identificação |
-
 | OPTION    | Opções  |
 
 
@@ -73,17 +64,11 @@ R5:.É um dos mecanismo de conversação entre Cliente e Servidor. para saber de
 
 
 | Código | Status                  | Significado                         |
-
 |--------|------------------------|-------------------------------------|
-
 | 200    | OK                     | Requisição aceita                   |
-
 | 404    | Not Found              | Página não encontrada               |
-
 | 304    | Not Modified           | Não houve modificações no cache     |
-
 | 403    | Forbidden              | Acesso proibido                     |
-
 | 500    | Internal Server Error  | Erro interno no servidor            |
 
 
