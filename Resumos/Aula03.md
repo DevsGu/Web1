@@ -17,7 +17,7 @@ Nessa aula, o objetivo foi entender como visualizar os dados de requisição e r
 5. Acessar também: https://fakestoreapi.com/products  
 e comparar com a requisição anterior.
 
-\---
+---
 
 ## 🔍 Análise realizada
 
@@ -31,7 +31,7 @@ Ao abrir o DevTools, observei diversas requisições, principalmente carregament
 * **Status Code:** 200 OK
 * **Host:** crunchyroll.com
 
-\---
+---
 
 ## 📡 Headers HTTP (comparação)
 
@@ -45,7 +45,7 @@ Ao abrir o DevTools, observei diversas requisições, principalmente carregament
 |cookie|(presente)|(ausente)|
 |user-agent|Mozilla/5.0|Mozilla/5.0|
 
-\---
+---
 
 ## 📊 Conclusão
 
@@ -55,21 +55,20 @@ Foi possível perceber que:
 * Já APIs como a FakeStore retornam **dados em JSON**
 * Os headers variam de acordo com o tipo de requisição e resposta
 
-\---
+---
 
 
 
-\## 🖼️ Evidências da análise 
+## 🖼️ Evidências da análise 
 
 
 
-!\[Requisição 1](Imagens/git-web1.png)
+![Requisição 1](Imagens/git-web1.png)
 
-!\[Requisição 2](Imagens/img2.png)
+![Requisição 2](Imagens/img2.png)
 
-!\[Requisição 3](Imagens/img3.png)
+![Requisição 3](Imagens/img3.png)
 
 
 
-!\[teste](https://github.githubassets.com/images/modules/logos\_page/GitHub-Mark.png)
 
