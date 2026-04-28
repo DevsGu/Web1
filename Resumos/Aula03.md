@@ -59,11 +59,9 @@ Foi possível perceber que:
 
 ## 🖼️ Evidências da análise
 
-!\[Requisição 1](Resumos/Imagens/git-web1.png)
+!\[Requisição 1](Imagens/git-web1.png)
 
-!\[Requisição 2](Resumos/Imagens/img2.png)
+!\[Requisição 2](Imagens/img2.png)
 
-!\[Requisição 3](Resumos/Imagens/img3.png)
-
-
+!\[Requisição 3](Imagens/img3.png)
 
