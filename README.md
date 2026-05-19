@@ -32,6 +32,8 @@ Os conteúdos estão organizados por aulas:
 
 * Aula 01 - Cliente e Servidor
 * Aula 02 - Revisão Linguagem Java
+* Aula 03 - Entendendo HTTP na prática
+* Aula 04 - Revisão Linguagem Java - Exercicios
 
 &#x20; \*(e assim por diante...)\*
 
