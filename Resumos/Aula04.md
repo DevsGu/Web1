@@ -1,8 +1,8 @@
-\# ☕ Revisão de Java
+# ☕ Revisão de Java
 
 
 
-\## 📚 Sobre
+## 📚 Sobre
 
 
 
@@ -18,37 +18,37 @@ Mesmo sendo questões básicas, elas ajudam bastante a praticar lógica e relemb
 
 
 
-\---
+---
 
 
 
-\## 🧠 Conceitos revisados
+## 🧠 Conceitos revisados
 
 
 
-\- ✅ Algoritmos básicos
+- ✅ Algoritmos básicos
 
-\- ✅ Programação Orientada a Objetos (POO)
+- ✅ Programação Orientada a Objetos (POO)
 
-\- ✅ Construtores
+- ✅ Construtores
 
-\- ✅ Métodos
+- ✅ Métodos
 
-\- ✅ Variáveis e tipos de dados
+- ✅ Variáveis e tipos de dados
 
-\- ✅ Estruturas condicionais
+- ✅ Estruturas condicionais
 
-\- ✅ Estruturas de repetição
+- ✅ Estruturas de repetição
 
-\- ✅ Entrada de dados com `Scanner`
-
-
-
-\---
+- ✅ Entrada de dados com `Scanner`
 
 
 
-\## 🎯 Objetivo
+---
+
+
+
+## 🎯 Objetivo
 
 
 
