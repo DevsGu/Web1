@@ -1,0 +1,6 @@
+com\example\atividade\service\UsuarioService.class
+com\example\atividade\model\Usuario.class
+com\example\atividade\resources\HelloRecord.class
+com\example\atividade\resources\RestResource.class
+com\example\atividade\servlet\UsuarioServlet.class
+com\example\atividade\ApplicationConfig.class
