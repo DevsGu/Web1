@@ -1,0 +1,6 @@
+com\example\atv7\atividade07\controller\LoginServlet.class
+com\example\atv7\atividade07\controller\LogoutServlet.class
+com\example\atv7\atividade07\resources\RestResource.class
+com\example\atv7\atividade07\ApplicationConfig.class
+com\example\atv7\atividade07\resources\HelloRecord.class
+com\example\atv7\atividade07\controller\IdiomaServlet.class
