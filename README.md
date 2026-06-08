@@ -36,6 +36,7 @@ Os conteúdos estão organizados por aulas:
 * Aula 04 - Revisão Linguagem Java - Exercicios
 * Aula 05 - Servidor Montado - Trabalhando na WEB
 * Aula 06 - Cadastro Simples de Listagem- Trabalhando na WEB
+* Aula 07 - Manutenção de Estado com Cookies e Sessões
 
 &#x20; \*(e assim por diante...)\*
 
